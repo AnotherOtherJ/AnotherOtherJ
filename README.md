@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubpawelec/)
 
-### Some basic profile stats 📊
+## Some basic profile stats 📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnotherOtherJ&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/AnotherOtherJ?color=red&style=for-the-badge)
